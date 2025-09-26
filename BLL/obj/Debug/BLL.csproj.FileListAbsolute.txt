@@ -1,0 +1,28 @@
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\BLL\bin\Debug\BLL.dll
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\BLL\bin\Debug\BLL.pdb
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\BLL\bin\Debug\DAL.dll
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\BLL\bin\Debug\DAL.pdb
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\BLL\bin\Debug\DAL.dll.config
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\BLL\obj\Debug\BLL.dll
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\BLL\obj\Debug\BLL.pdb
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\BLL\bin\Debug\AutoMapper.dll
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\BLL\bin\Debug\EntityFramework.dll
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\BLL\bin\Debug\AutoMapper.xml
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\BLL\bin\Debug\EntityFramework.xml
+E:\BankLoan\BLL\bin\Debug\BLL.dll
+E:\BankLoan\BLL\bin\Debug\BLL.pdb
+E:\BankLoan\BLL\bin\Debug\AutoMapper.dll
+E:\BankLoan\BLL\bin\Debug\DAL.dll
+E:\BankLoan\BLL\bin\Debug\EntityFramework.dll
+E:\BankLoan\BLL\bin\Debug\DAL.pdb
+E:\BankLoan\BLL\bin\Debug\DAL.dll.config
+E:\BankLoan\BLL\bin\Debug\AutoMapper.xml
+E:\BankLoan\BLL\bin\Debug\EntityFramework.xml
+E:\BankLoan\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\BankLoan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\BankLoan\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\BankLoan\BLL\obj\Debug\BLL.dll
+E:\BankLoan\BLL\obj\Debug\BLL.pdb

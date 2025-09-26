@@ -1,0 +1,31 @@
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\DAL\bin\Debug\DAL.dll.config
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\DAL\bin\Debug\DAL.dll
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\DAL\bin\Debug\DAL.pdb
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\DAL\bin\Debug\EntityFramework.dll
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\DAL\bin\Debug\EntityFramework.xml
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\DAL\obj\Debug\DAL.dll
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\DAL\obj\Debug\DAL.pdb
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\DAL\obj\Debug\DAL.Migrations.tablesAndDB.resources
+D:\10th semester\advance .net\my codes\.net\(n)layer Architechture\BankLoan\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\BankLoan\DAL\bin\Debug\DAL.dll.config
+E:\BankLoan\DAL\bin\Debug\DAL.dll
+E:\BankLoan\DAL\bin\Debug\DAL.pdb
+E:\BankLoan\DAL\bin\Debug\EntityFramework.dll
+E:\BankLoan\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\BankLoan\DAL\bin\Debug\EntityFramework.xml
+E:\BankLoan\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\BankLoan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\BankLoan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\BankLoan\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\BankLoan\DAL\obj\Debug\DAL.dll
+E:\BankLoan\DAL\obj\Debug\DAL.pdb
+E:\BankLoan\DAL\obj\Debug\DAL.Migrations.first.resources
+E:\BankLoan\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\BankLoan\DAL\obj\Debug\DAL.Migrations._2nd.resources
+E:\BankLoan\DAL\obj\Debug\DAL.Migrations._3nd.resources
+E:\BankLoan\DAL\obj\Debug\DAL.Migrations.loanAppli.resources
